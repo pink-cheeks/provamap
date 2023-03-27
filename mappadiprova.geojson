@@ -14,6 +14,19 @@
           45.063639
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aaaaaaaaaaaaaa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.687865,
+          45.063639
+        ]
+      }
     }
   ]
 }
