@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "**Indirizzo:**\nVia Cavour, 31, 10123 Torino TO\n**Contatti:**\n011 633 3692\n\n\"Colloqui con psicologə: domande sul rapporto con il tuo corpo, sul come ti masturbi, sul tuo orientamento sessuale; somministrazione di test come MMPI 2 e altri che non ricordo, probabilmente anche sull’umore. Nel mio caso ci sono state anche insinuazioni che le persone non binarie non esistano, e che io non sappia davvero cosa voglio, ma lei sì. Incapacità di parlare con gente autistica/neurodivergente senza accusarla di ‘essere senza sentimenti’. E soprattutto lə psicologə con cui ho fatto io il percorso crede che per esser trans e poter transizionare serva soffrire.\"\n[[https://zonatransitolibero.altervista.org/sconsiglio-di-fidarsi-dell%c9%99-psicolog%c9%99-in-qualsiasi-modo/|leggi la testimonianza completa]]",
+        "name": "CIDIGEM - Centro Interdipartimentale Disturbi Identità di Genere (ospedale Molinette)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.687865,
+          45.063639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azienda Ospedaliera Universitaria San Giovanni e Ruggi (Endocrinologia)",
+        "description": "**Indirizzo:**\nVia San Leonardo, 84125 Salerno SA\n**Contatti:**\n089 672177/2536\n\n\"Dott. Vitale e ora Dott. Izzo mi seguono per la terapia ormonale con piano terapeutico. Mi sono inseritə da privato a pubblico fornendo i miei vari esami e carte e li ho trovati disponibili e comprensivi. La mia relazione è scritta in maniera molto binaria, ma ho comunicato tranquillamente al Dott. Vitale di continuare la mia terapia in microdosing di T e non voler fare interventi. Ho notato interesse anche verso il mio stato psicologico e non ci sono stati problemi quando gli ho detto che soffro di PTSD. Noto con piacere attenzione nella compilazione delle mie carte mediche: il mio piano terapeutico riporta il sesso solo in formato codice a barre e in una prescrizione si indicava il mio trattamento ormonale \"di affermazione di genere\".\"\n[[https://zonatransitolibero.altervista.org/li-ho-trovati-disponibili-e-comprensivi-e-in-una-prescrizione-si-indicava-il-mio-trattamento-come-affermazione-di-genere/|leggi la testimonianza completa]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.828947,
+          40.649147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dott.ssa Giulia Senofonte",
+        "description": "**Indirizzo:**\nViale degli Ammiragli, 67, Roma\n**Contatti:**\nsenofonte.endocrinologia@gmail.com\n@lasenofonte [Instagram]\n\n\"La dottoressa sa metterti a tuo agio nei colloqui pur essendo molto professionale. È molto competente per quanto riguarda le tematiche trans e apprezzo anche il lavoro di divulgazione che fa sui social, anche su tematiche che potrebbero essere considerate marginali, o di poco conto. Soprattutto a differenza di molti suoi colleghi non fa terrorismo psicologico durante la prima visita esagerando gli effetti collaterali della terapia ormonale, ed è una persona disposta all’ascolto dellә paziente.\"\n[[https://zonatransitolibero.altervista.org/la-persona-piu-professionale-che-abbia-incontrato-nel-mio-percorso-di-transizione/|leggi la testimonianza completa]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.444074,
+          41.905307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dott.ssa Paola Biondi",
+        "description": "**Indirizzo:**\nVia Monte Santo, 7, Roma (RM) – nota: al momento lavora esclusivamente online\n**Contatti:**\npaolabiondi.it (mail, whatsapp)\n\n\"Mi sono trovata di fronte a una persona certamente preparata sul tema, ma una serie di pecche mi hanno portata a definire la mia esperienza con lei come nel complesso negativa.\nInnanzitutto c’è stato il giudizio sul mio essere o non essere trans basato sulle apparenze. Se non me la sentivo di andare ai nostri incontri “vestita en femme” perché non ero out a casa e avevo paura a fare il lungo tragitto da casa mia allo studio, allora non mi stavo impegnando abbastanza.\"\n[[http://zonatransitolibero.altervista.org/una-persona-certamente-preparata-ma-nel-complesso-unesperienza-negativa/|leggi la testimonianza completa]]",
+        "_umap_options": {
+          "color": "#e63e20"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.459412,
+          41.915818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Gold"
+        },
+        "name": "Dr.ssa Chiara Cecchelli",
+        "description": "**Indirizzo:**\n“Brain Center Firenze” – Viale Belfiore, 36, Firenze (FI)\n“Neurocare Clinic Bologna” – Via Santo Stefano, 67, Bologna (BO)\n**Contatti:**\nwww.neurocareclinics.it\nwww.braincenterfirenze.it\n\n\"Ha uno studio sia a Firenze che a Bologna, e – anche se non è scritto da nessuna parte – rilascia anche relazioni di Disforia Di Genere in una sola seduta, privatamente. Ho pagato 150 euro (+ 2 di bollo) e ho avuto una diagnosi subito, con la quale ho avuto accesso all’endocrinologa.\"\n[[https://zonatransitolibero.altervista.org/rilascia-relazioni-in-una-sola-seduta/|leggi la testimonianza completa]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.242504,
+          43.781086
+        ]
+      }
+    }
+  ]
+}
