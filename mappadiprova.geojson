@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "description": " la testimonianza completa]]",
-        "name": "ciao sto facendo una prova"
       },
       "geometry": {
         "type": "Point",
