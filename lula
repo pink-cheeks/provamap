@@ -4,12 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-              "name": "aaaaaaaaaaaaaaaaaaaa"
+        "description": "**Indirizzo:**\nVia Cavour, 31, 10123 Torino TO\n**Contatti:**\n011 633 3692\n\n\"Colloqui con psicologə: domande sul rapporto con il tuo corpo, sul come ti masturbi, sul tuo orientamento sessuale; somministrazione di test come MMPI 2 e altri che non ricordo, probabilmente anche sull’umore. Nel mio caso ci sono state anche insinuazioni che le persone non binarie non esistano, e che io non sappia davvero cosa voglio, ma lei sì. Incapacità di parlare con gente autistica/neurodivergente senza accusarla di ‘essere senza sentimenti’. E soprattutto lə psicologə con cui ho fatto io il percorso crede che per esser trans e poter transizionare serva soffrire.\"\n[[https://zonatransitolibero.altervista.org/sconsiglio-di-fidarsi-dell%c9%99-psicolog%c9%99-in-qualsiasi-modo/|leggi la testimonianza completa]]",
+        "name": "CIDIGEM - Centro Interdipartimentale Disturbi Identità di Genere (ospedale Molinette)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.687865,
+          7.687865,
           45.063639
         ]
       }
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "dddddddddddddddddddddd",
+        "name": "Azienda Ospedaliera Universitaria San Giovanni e Ruggi (Endocrinologia)",
+        "description": "**Indirizzo:**\nVia San Leonardo, 84125 Salerno SA\n**Contatti:**\n089 672177/2536\n\n\"Dott. Vitale e ora Dott. Izzo mi seguono per la terapia ormonale con piano terapeutico. Mi sono inseritə da privato a pubblico fornendo i miei vari esami e carte e li ho trovati disponibili e comprensivi. La mia relazione è scritta in maniera molto binaria, ma ho comunicato tranquillamente al Dott. Vitale di continuare la mia terapia in microdosing di T e non voler fare interventi. Ho notato interesse anche verso il mio stato psicologico e non ci sono stati problemi quando gli ho detto che soffro di PTSD. Noto con piacere attenzione nella compilazione delle mie carte mediche: il mio piano terapeutico riporta il sesso solo in formato codice a barre e in una prescrizione si indicava il mio trattamento ormonale \"di affermazione di genere\".\"\n[[https://zonatransitolibero.altervista.org/li-ho-trovati-disponibili-e-comprensivi-e-in-una-prescrizione-si-indicava-il-mio-trattamento-come-affermazione-di-genere/|leggi la testimonianza completa]]"
       },
       "geometry": {
         "type": "Point",
@@ -31,6 +33,7 @@
       "type": "Feature",
       "properties": {
         "name": "Dott.ssa Giulia Senofonte",
+        "description": "**Indirizzo:**\nViale degli Ammiragli, 67, Roma\n**Contatti:**\nsenofonte.endocrinologia@gmail.com\n@lasenofonte [Instagram]\n\n\"La dottoressa sa metterti a tuo agio nei colloqui pur essendo molto professionale. È molto competente per quanto riguarda le tematiche trans e apprezzo anche il lavoro di divulgazione che fa sui social, anche su tematiche che potrebbero essere considerate marginali, o di poco conto. Soprattutto a differenza di molti suoi colleghi non fa terrorismo psicologico durante la prima visita esagerando gli effetti collaterali della terapia ormonale, ed è una persona disposta all’ascolto dellә paziente.\"\n[[https://zonatransitolibero.altervista.org/la-persona-piu-professionale-che-abbia-incontrato-nel-mio-percorso-di-transizione/|leggi la testimonianza completa]]"
       },
       "geometry": {
         "type": "Point",
